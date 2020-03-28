@@ -1,13 +1,13 @@
 body {
     color: #222222;
     font-size: 1em;
-    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-family: "Open Sans", "Helvetica", sans-serif;
 }
 
 .content-footer,
 .masthead-heading,
 .masthead-intro {
-  text-align: center;
+  text-align: left;
 }
 
 .masthead {
