@@ -1,17 +1,17 @@
 ## About Me 
 
-* It is currently hosted on Github Pages.
 
-App Name as Headline
+
+prework-about-me
 ======
-**prework-about-me**  This website is a static HTML website using semantic tags and minimal CSS. 
+**prework-about-me**  This website is a static HTML website using semantic tags and minimal CSS. * It is currently hosted on Github Pages.
 
 #### Screenshot
 ![Screenshot iOS](http://url/screenshot-appname-ios.png "screenshot iOS")
 
 #### App Stores
 <!-- edit this image location -->
-[![Download on the AppStore](https://raw.github.com/repat/README-template/master/appstore.png)](https://itunes.apple.com/app/id123456)
+[![Download on the AppStore](https://raw.github.com/prework-about-me/README-template/master/appstore.png)](https://itunes.apple.com/app/id123456)
 
 #### QR Market Links
 ![QR-Code Android](http://url/qrcode-appname-android.png)
